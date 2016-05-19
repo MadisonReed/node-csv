@@ -1,6 +1,6 @@
 {
   "name": "@madisonreed/csv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CSV parser with simple api, full of options and tested against large datasets.",
   "homepage": "https://github.com/MadisonReed/node-csv",
   "author": {
@@ -17,12 +17,6 @@
     {
       "name": "Scott Stokes",
       "email": "scottspork@gmail.com"
-    }
-  ],
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "https://github.com/wdavidw/node-csv/blob/master/LICENSE"
     }
   ],
   "engines": {
@@ -43,6 +37,5 @@
     "csv-parse": "*",
     "stream-transform": "*",
     "csv-stringify": "*"
-  },
-  "_from": "csv@0.4.0"
+  }
 }

@@ -6,3 +6,4 @@ samples/sample.out
 samples/perf.out
 !.travis.yml
 !.gitignore
+npm-debug.log
