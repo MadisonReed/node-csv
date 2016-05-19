@@ -1,6 +1,6 @@
 {
   "name": "@madisonreed/csv",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "CSV parser with simple api, full of options and tested against large datasets.",
   "homepage": "https://github.com/MadisonReed/node-csv",
   "author": {
@@ -33,9 +33,9 @@
     "url": "https://github.com/MadisonReed/node-csv.git"
   },
   "dependencies": {
-    "csv-generate": "*",
-    "csv-parse": "*",
-    "stream-transform": "*",
-    "csv-stringify": "*"
+    "csv-generate": "0.0.4",
+    "csv-parse": "0.0.6",
+    "stream-transform": "0.0.6",
+    "csv-stringify": "0.0.3"
   }
 }
