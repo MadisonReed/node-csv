@@ -43,6 +43,6 @@
     "csv-parse": "*",
     "stream-transform": "*",
     "csv-stringify": "*"
-  },,
+  },
   "_from": "csv@0.4.0"
 }
