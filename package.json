@@ -1,6 +1,6 @@
 {
   "name": "@madisonreed/csv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CSV parser with simple api, full of options and tested against large datasets.",
   "homepage": "https://github.com/MadisonReed/node-csv",
   "author": {
