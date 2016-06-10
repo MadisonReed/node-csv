@@ -1,5 +1,5 @@
 {
-  "name": "@madisonreed/csv",
+  "name": "csv",
   "version": "2.0.0",
   "description": "CSV parser with simple api, full of options and tested against large datasets.",
   "homepage": "https://github.com/MadisonReed/node-csv",
